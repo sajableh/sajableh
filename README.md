@@ -13,7 +13,10 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=sajableh&color=gray&style=plastic" alt=":name" /> [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36017)](https://codetime.dev)
+  <img src="https://komarev.com/ghpvc/?username=sajableh&color=gray&style=plastic" alt=":name" />
+  <br>
+  <br>
+  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36017)](https://codetime.dev)
   <br>
   <br>
 
