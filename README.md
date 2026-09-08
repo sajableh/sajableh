@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/347772167695368202">
-  <img src="https://lanyard.kyrie25.dev/api/347772167695368202?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=true&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/>
+  <img src="https://lanyard.kyrie25.dev/api/347772167695368202?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/>
 </a>
 <br><br>
 <a href="https://github.com/sajableh">
